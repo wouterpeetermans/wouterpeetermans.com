@@ -1,2 +1,3 @@
 # wouterpeetermans.com
-mijn persoonlijke website 
+
+Deze repo bevat de code van mijn persoonlijke website
